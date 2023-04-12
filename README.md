@@ -1,7 +1,7 @@
 - 👋 Hi I'm oumaima , a software engineering student also a data engineering enthusiast.
 - 👀 I’m interested in   🌐IT🌐
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Keep Learning 👏👏
+- 💞️ I’m looking to collaborate on IT projects 🧑‍💻
 - 📫 How to reach me : linkedin.com/in/oumaima-ouasli-210596248
 
 <!---

@@ -1,4 +1,4 @@
-- 👋 Hi I'm oumaima , a software engineering student also a data engineering enthusiast.
+- 👋 Hi I'm oumaima , a  full stack software engineering student also a data engineering enthusiast.
 - 👀 I’m interested in   🌐IT🌐
 - 🌱 Keep Learning 👏👏
 - 💞️ I’m looking to collaborate on IT projects 🧑‍💻

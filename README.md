@@ -4,7 +4,7 @@
 
 💻 I'm actively seeking collaborations on exciting IT projects.
 
-                                        <b>👏 FIRST SOLVE THE PROBLEM, THEN WRITE THE CODE 👏</b>
+                                       👏 FIRST SOLVE THE PROBLEM, THEN WRITE THE CODE 👏
 
 
 

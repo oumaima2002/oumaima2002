@@ -1,8 +1,12 @@
-- 👋 Hi I'm oumaima , a  full stack software engineering student also a data engineering enthusiast.
-- 👀 I’m interested in   🌐IT🌐
-- 🌱 Keep Learning 👏👏
-- 💞️ I’m looking to collaborate on IT projects 🧑‍💻
-- 📫 How to reach me : linkedin.com/in/oumaima-ouasli-210596248
+👋 Hi, I'm Oumaima, a passionate Full Stack Software Engineering student and Data enthusiast.
+
+🌱 Always eager to learn and grow.
+
+💻 I'm actively seeking collaborations on exciting IT projects.
+
+                                        <b>👏 FIRST SOLVE THE PROBLEM, THEN WRITE THE CODE 👏</b>
+
+
 
 <!---
 oumaima2002/oumaima2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

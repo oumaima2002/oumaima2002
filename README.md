@@ -1,4 +1,4 @@
-👋 Hi, I'm Oumaima, a passionate Full Stack Software Engineering student and Data enthusiast.
+👋 Hi, I'm Oumaima, a passionate Full Stack Software Engineer, Data and BlockChain enthusiast.
 
 🌱 Always eager to learn and grow.
 
@@ -8,7 +8,3 @@
 
 
 
-<!---
-oumaima2002/oumaima2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
